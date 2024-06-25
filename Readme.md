@@ -26,7 +26,8 @@ información, como así también los Servlets de Java para la captura de informa
 de valores respecto de la selección de usuario.
 
 
-![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/73182110-e7d4-4fd9-8e21-fdd7c42506fa)
+![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/71ad7757-97e0-4eda-942e-1c365597061d)
+
 
 
 
@@ -101,13 +102,14 @@ Consideraciones y recomendaciones
 	
 	
 Imagenes del Proyecto
+-
 
-![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/efeca00f-1d99-4957-a18e-de946e446242)
+![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/237a792e-eb88-4aac-abc5-a3fb748410bb)
 
-![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/59ced81f-91eb-4a15-9769-f9c654042cda)
+![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/1870697a-a6a9-4732-9919-5e6dce2439fe)
 
-![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/0da54a3c-2412-40f7-a7cd-1dfaabbddc84)
+![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/96f8abc6-805a-4283-b00e-c4b27442d759)
 
-![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/105b91d9-eee6-4470-b767-60e52bf1a530)
+![image](https://github.com/TomasAguileraCastillo/Desafio-JEE-y-Java-Server-Pages-I-/assets/136927556/0e9ebd18-a6b3-4aee-834d-98e62082bf07)
 
 
